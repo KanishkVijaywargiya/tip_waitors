@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tippy</string>
+    <string name="bill_amount_title">BILL AMOUNT</string>
+    <string name="bill_amount">Enter Bill Amount</string>
+    <string name="auto_fill_hint_bill_amt">PLEASE FILL THE RIGHT AMOUNT</string>
+    <string name="service_rating"> SERVICE RATING</string>
+    <string name="service_rating_icons">This is a button for setting the service rating.</string>
+    <string name="tip_percent">Tip Percent\n%.0f%%</string>
+    <string name="tip_amt">Tip Amount\n₹%.2f</string>
+    <string name="total_bill">TOTAL BILL</string>
+    <string name="rupees">₹%.2f</string>
+</resources>

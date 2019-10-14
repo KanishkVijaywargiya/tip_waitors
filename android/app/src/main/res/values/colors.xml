@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EA425C</color>
+    <color name="colorPrimaryDark">#E83350</color>
+    <color name="colorBackground">#EAF0F1</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="smile">#FF7F00</color>
+    <color name="happy">#F4C724</color>
+    <color name="happy_face">#75DA8B</color>
+    <color name="happy_1">#8B78E6</color>
+    <color name="emoji">#25CCF7</color>
+</resources>
